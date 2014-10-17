@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ParikshaFinal2", "..\..\WebSites\ParikshaFinal2\", "{3517273A-765E-4A83-9AF9-5DFEEA9F9E9C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ParikshaFinal2"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ParikshaFinal2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ParikshaFinal2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ParikshaFinal2"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ParikshaFinal2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ParikshaFinal2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1784"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3517273A-765E-4A83-9AF9-5DFEEA9F9E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3517273A-765E-4A83-9AF9-5DFEEA9F9E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

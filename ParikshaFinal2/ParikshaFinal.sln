@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ParikshaFinal", "..\..\WebSites\ParikshaFinal\", "{B6509556-DD25-4CBF-B27B-68F19640C0AB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ParikshaFinal"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ParikshaFinal\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ParikshaFinal\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ParikshaFinal"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ParikshaFinal\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ParikshaFinal\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2894"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{774FF052-554C-4380-8B1B-AE6D0A62D2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6509556-DD25-4CBF-B27B-68F19640C0AB}.Debug|.NET.ActiveCfg = Debug|.NET
+		{B6509556-DD25-4CBF-B27B-68F19640C0AB}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
